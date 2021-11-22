@@ -1,0 +1,1 @@
+# classification-of-pneumonia-by-X-ray-images
